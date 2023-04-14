@@ -259,6 +259,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Testing": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -274,6 +282,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.0.0, )"
+            },
+            "Respawn": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "WireMock.Net": {
               "target": "Package",

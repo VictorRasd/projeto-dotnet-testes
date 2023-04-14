@@ -2,7 +2,6 @@ C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\testhost.dll
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\ProjetoApi.deps.json
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\ProjetoApi.runtimeconfig.json
-C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\appsettings.json
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\ProjetoApi.exe
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\testhost.exe
@@ -522,3 +521,11 @@ C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\obj\Debug\net6.0\ref\TestesIntegracao.dll
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\obj\Debug\net6.0\TestesIntegracao.pdb
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\obj\Debug\net6.0\TestesIntegracao.genruntimeconfig.cache
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\appsettings.Testing.json
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\Bogus.dll
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Testes\TestesIntegracao\bin\Debug\net6.0\Respawn.dll
