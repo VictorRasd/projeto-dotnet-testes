@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj": {}
+    "D:\\Fork\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {
+    "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\victor.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\obj\\",
+        "projectPath": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj": {
+    "D:\\Fork\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj",
+        "projectUniqueName": "D:\\Fork\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj",
         "projectName": "Infraestrutura",
-        "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj",
-        "packagesPath": "C:\\Users\\victor.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Infraestrutura\\obj\\",
+        "projectPath": "D:\\Fork\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\projeto-dotnet-testes\\Infraestrutura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj"
+              "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -125,7 +126,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -134,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\ProjetoApi.csproj": {
+    "D:\\Fork\\projeto-dotnet-testes\\ProjetoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\ProjetoApi.csproj",
+        "projectUniqueName": "D:\\Fork\\projeto-dotnet-testes\\ProjetoApi.csproj",
         "projectName": "ProjetoApi",
-        "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\ProjetoApi.csproj",
-        "packagesPath": "C:\\Users\\victor.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\obj\\",
+        "projectPath": "D:\\Fork\\projeto-dotnet-testes\\ProjetoApi.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\projeto-dotnet-testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj": {
-                "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj"
+              "D:\\Fork\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj": {
+                "projectPath": "D:\\Fork\\projeto-dotnet-testes\\Infraestrutura\\Infraestrutura.csproj"
               }
             }
           }
@@ -203,7 +205,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -215,21 +218,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj": {
+    "D:\\Fork\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj",
+        "projectUniqueName": "D:\\Fork\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj",
         "projectName": "TestesIntegracao",
-        "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj",
-        "packagesPath": "C:\\Users\\victor.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\obj\\",
+        "projectPath": "D:\\Fork\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\TestesIntegracao.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\projeto-dotnet-testes\\Testes\\TestesIntegracao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -243,8 +246,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\ProjetoApi.csproj": {
-                "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\ProjetoApi.csproj"
+              "D:\\Fork\\projeto-dotnet-testes\\ProjetoApi.csproj": {
+                "projectPath": "D:\\Fork\\projeto-dotnet-testes\\ProjetoApi.csproj"
               }
             }
           }
@@ -302,7 +305,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -311,7 +315,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

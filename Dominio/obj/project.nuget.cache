@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+0S8lCer5ztwwE6SLseoQfJ/fMEUQBV04hQL545Vvq+yqL+nNxJ9SARfc5eXUoxLsDnRCAAN/3jev5uyYriNQ==",
+  "dgSpecHash": "hkVcwzkdwmx2ZZGKKnv6THHEmHsEhrjqRL6Zb4MmK7abvv+27l24gs5AqPnZ2IwjTG6CWLrNnHEdkV6mSYH4lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
+  "projectFilePath": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {}
+    "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {
+    "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\victor.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.oliveira\\Workspace\\projeto-dotnet-testes\\Dominio\\obj\\",
+        "projectPath": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\projeto-dotnet-testes\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victor.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

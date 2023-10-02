@@ -10,3 +10,15 @@ C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Dominio\obj\Debug\net6.
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.dll
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\ref\Dominio.dll
 C:\Users\victor.oliveira\Workspace\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.pdb
+D:\Fork\projeto-dotnet-testes\Dominio\bin\Debug\net6.0\Dominio.deps.json
+D:\Fork\projeto-dotnet-testes\Dominio\bin\Debug\net6.0\Dominio.dll
+D:\Fork\projeto-dotnet-testes\Dominio\bin\Debug\net6.0\Dominio.pdb
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.dll
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\Dominio.pdb
+D:\Fork\projeto-dotnet-testes\Dominio\obj\Debug\net6.0\ref\Dominio.dll
